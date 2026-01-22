@@ -1,2 +1,1 @@
-# hardeda
-EasyEDA è hard: HardEDA
+Fai finta che qui ci sia scritto qualcosa di interessante.
